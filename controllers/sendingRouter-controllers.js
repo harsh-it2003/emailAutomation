@@ -37,12 +37,12 @@ async function main() {
                 <p>Please find my resume attached.</p>
                     `, 
 
-                attachments: [
-                    {
-                        filename:"Harshit-Dudani-Resume.pdf",
-                        path: "./Harshit-Dudani-Resume.pdf",
-                    }
-                ]
+//                 attachments: [
+//                     {
+//                         filename:"Harshit-Dudani-Resume.pdf",
+//                         path: "./Harshit-Dudani-Resume.pdf",
+//                     }
+//                 ]
             })
         }
 
